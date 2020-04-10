@@ -1,0 +1,7 @@
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\bin\Debug\Homework_1_Task_2.exe.config
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\bin\Debug\Homework_1_Task_2.exe
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\bin\Debug\Homework_1_Task_2.pdb
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\obj\Debug\Homework_1_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\obj\Debug\Homework_1_Task_2.exe
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\obj\Debug\Homework_1_Task_2.pdb
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_1\src\Homework_1_Task_1\Homework_1_Task_2\obj\Debug\Homework_1_Task_2.csprojAssemblyReference.cache
